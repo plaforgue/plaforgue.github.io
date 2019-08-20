@@ -1,2 +1,39 @@
 # jemdoc: menu{MENU}{research.html}, nofooter
-= Publications
+
+== Publications
+
+- Learning from Biased Training Samples
+
+
+- On Medians-of-(Randomized)-Pairwise-Means
+
+
+- Autoencoding any Data through Kernel Autoencoders
+
+
+
+
+
+== Oral Presentations
+Here you can find slides I have used during my oral presentations:
+
+
+
+*On Medians-of-(Randomized)-Pairwise-Means*
+- International Conference on Machine Learning (ICML), Long Beach, CA, Jun. 2019.~~\[[slides.pdf slides]\]
+- Conférence sur l'Apprentissage automatique (CAp), Toulouse, France, Jul. 2019.~~\[[slides.pdf \slides]\]
+
+
+
+*Autoencoding any Data through Kernel Autoencoders*
+- Journées De Statistique (JDS), Saclay, France, May 2018.~~\[[slides.pdf \slides]\]
+- Conférence sur l'Apprentissage automatique (CAp), Rouen, France, Jun. 2018.~~\[[slides.pdf \slides]\]
+- European Network for Business and Industrial Statistics (ENBIS), Nancy, France, Sept. 2018.~~\[[slides.pdf \slides]\]
+- Invited talk in Pr. Iwata Hiroyoshi's lab, Tōdai University of Tokyo, Japan, Apr. 2019.~~\[[slides.pdf \slides]\]
+
+
+
+
+== Reviewing
+I have been an official reviewer for the following conferences:
+- NeurIPS 2019
