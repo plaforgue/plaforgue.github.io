@@ -2,13 +2,16 @@
 
 == Publications
 
-- Learning from Biased Training Samples
+- *Learning from Biased Training Samples* (Under review)\n
+  Pierre Laforgue, Stephan Clémençon.~\[[link arxiv], [link code]\]
 
 
-- On Medians-of-(Randomized)-Pairwise-Means
+- *On Medians-of-(Randomized)-Pairwise-Means* (ICML 2019)\n
+  Pierre Laforgue, Stephan Clémençon, Patrice Bertail~\[[subfiles/morm_paper.pdf paper, [subfiles/morm_poster.pdf poster], [link code]]\]
 
 
-- Autoencoding any Data through Kernel Autoencoders
+- *Autoencoding any Data through Kernel Autoencoders* (AISTATS 2019)\n
+  Pierre Laforgue, Stephan Clémençon, Florence d'Alché-Buc~\[[subfiles/kae_paper.pdf paper, [subfiles/kae_poster.pdf poster], [link code]]\]
 
 
 
@@ -20,16 +23,17 @@ Here you can find slides I have used during my oral presentations:
 
 
 *On Medians-of-(Randomized)-Pairwise-Means*
-- International Conference on Machine Learning (ICML), Long Beach, CA, Jun. 2019.~~\[[slides.pdf slides]\]
-- Conférence sur l'Apprentissage automatique (CAp), Toulouse, France, Jul. 2019.~~\[[slides.pdf \slides]\]
+- International Conference on Machine Learning (ICML), Long Beach, CA, Jun. 2019.~~\[[subfiles/icml.pdf slides]\]
+- Conférence sur l'Apprentissage automatique (CAp), Toulouse, France, Jul. 2019.~~\[[subfiles/cap_19.pdf slides]\]
 
 
 
 *Autoencoding any Data through Kernel Autoencoders*
-- Journées De Statistique (JDS), Saclay, France, May 2018.~~\[[slides.pdf \slides]\]
-- Conférence sur l'Apprentissage automatique (CAp), Rouen, France, Jun. 2018.~~\[[slides.pdf \slides]\]
-- European Network for Business and Industrial Statistics (ENBIS), Nancy, France, Sept. 2018.~~\[[slides.pdf \slides]\]
-- Invited talk in Pr. Iwata Hiroyoshi's lab, Tōdai University of Tokyo, Japan, Apr. 2019.~~\[[slides.pdf \slides]\]
+- Journées De Statistique (JDS), Saclay, France, May 2018.~~\[[subfiles/jds.pdf slides]\]
+- Conférence sur l'Apprentissage automatique (CAp), Rouen, France, Jun. 2018.~~\[[subfiles/cap_18.pdf slides]\]
+- European Network for Business and Industrial Statistics (ENBIS), Nancy, France, Sept. 2018.~~\[[subfiles/enbis.pdf slides]\]
+- Invited talk in Pr. Iwata Hiroyoshi's lab, Tōdai University of Tokyo, Japan, Apr. 2019.~~\[[subfiles/todai.pdf slides]\]
+
 
 
 
