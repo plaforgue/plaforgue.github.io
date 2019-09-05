@@ -1,43 +1,40 @@
 # jemdoc: menu{MENU}{research.html}, nofooter
+= Publications and Preprints
 
-== Publications
-
-- *Learning from Biased Training Samples* (Under review)\n
-  Pierre Laforgue, Stephan Clémençon.~\[[link arxiv], [link code]\]
+- *Statistical Learning from Biased Training Samples* (Under review)\n
+  Pierre Laforgue, Stephan Clémençon~~\[[\/https://arxiv.org/abs/1906.12304 arxiv], [wait.html code]\]
 
 
 - *On Medians-of-(Randomized)-Pairwise-Means* (ICML 2019)\n
-  Pierre Laforgue, Stephan Clémençon, Patrice Bertail~\[[subfiles/morm_paper.pdf paper, [subfiles/morm_poster.pdf poster], [link code]]\]
+  Pierre Laforgue, Stephan Clémençon, Patrice Bertail~~\[[\/subfiles/morm_paper.pdf paper, [\/subfiles/morm_poster.pdf poster], [wait.html code]]\]
 
 
 - *Autoencoding any Data through Kernel Autoencoders* (AISTATS 2019)\n
-  Pierre Laforgue, Stephan Clémençon, Florence d'Alché-Buc~\[[subfiles/kae_paper.pdf paper, [subfiles/kae_poster.pdf poster], [link code]]\]
+  Pierre Laforgue, Stephan Clémençon, Florence d'Alché-Buc~~\[[\/subfiles/kae_paper.pdf paper, [\/subfiles/kae_poster.pdf poster], [wait.html code]]\]
 
 
 
 
 
-== Oral Presentations
-Here you can find slides I have used during my oral presentations:
-
+= Oral Presentations
+Here you can find slides I have used during some of my oral presentations.
 
 
 *On Medians-of-(Randomized)-Pairwise-Means*
-- International Conference on Machine Learning (ICML), Long Beach, CA, Jun. 2019.~~\[[subfiles/icml.pdf slides]\]
-- Conférence sur l'Apprentissage automatique (CAp), Toulouse, France, Jul. 2019.~~\[[subfiles/cap_19.pdf slides]\]
-
+- International Conference on Machine Learning (ICML), Long Beach, CA, Jun. 2019.~~\[[\/subfiles/icml.pdf slides]\]
+- Conférence sur l'Apprentissage automatique (CAp), Toulouse, France, Jul. 2019.~~\[[\/subfiles/cap_19.pdf slides]\]
 
 
 *Autoencoding any Data through Kernel Autoencoders*
-- Journées De Statistique (JDS), Saclay, France, May 2018.~~\[[subfiles/jds.pdf slides]\]
-- Conférence sur l'Apprentissage automatique (CAp), Rouen, France, Jun. 2018.~~\[[subfiles/cap_18.pdf slides]\]
-- European Network for Business and Industrial Statistics (ENBIS), Nancy, France, Sept. 2018.~~\[[subfiles/enbis.pdf slides]\]
-- Invited talk in Pr. Iwata Hiroyoshi's lab, Tōdai University of Tokyo, Japan, Apr. 2019.~~\[[subfiles/todai.pdf slides]\]
+- Journées De Statistique (JDS), Saclay, France, May 2018.~~\[[\/subfiles/jds.pdf slides]\]
+- Conférence sur l'Apprentissage automatique (CAp), Rouen, France, Jun. 2018.~~\[[\/subfiles/cap_18.pdf slides]\]
+- European Network for Business and Industrial Statistics (ENBIS), Nancy, France, Sep. 2018.~~\[[\/subfiles/enbis.pdf slides]\]
+- Invited talk in Pr. Iwata Hiroyoshi's lab, Tōdai University of Tokyo, Japan, Apr. 2019.~~\[[\/subfiles/todai.pdf slides]\]
 
 
 
 
 
-== Reviewing
+= Reviewing
 I have been an official reviewer for the following conferences:
 - NeurIPS 2019

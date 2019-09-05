@@ -642,7 +642,7 @@ def replacelinks(b):
     if not newtab:
       b = b[:m.start()] + r'<a href=\"%s\">%s<\/a>' % (link, linkname) + b[m.end():]
     else:
-        b = b[:m.start()] + r'<a rel="noopener noreferrer" target="_blank" href=\"%s\">%s<\/a>' % (link, linkname) + b[m.end():]
+      b = b[:m.start()] + r'<a target="_blank" rel="noopener noreferrer" href=\"%s\">%s<\/a>' % (link, linkname) + b[m.end():]
 
     m = r.search(b, m.start())
 
@@ -696,8 +696,8 @@ def br(b, f, tableblock=False):
   b = re.sub(r, r'<tt>\1</tt>', b)
 
   # Deal with "double quotes".
-  r = re.compile(r'(?<!\\)"(.*?)(?<!\\)"', re.M + re.S)
-  b = re.sub(r, r'&ldquo;\1&rdquo;', b)
+  # r = re.compile(r'(?<!\\)"(.*?)(?<!\\)"', re.M + re.S)
+  # b = re.sub(r, r'&ldquo;\1&rdquo;', b)
 
   # Deal with left quote `.
   r = re.compile(r"(?<!\\)`", re.M + re.S)
