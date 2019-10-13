@@ -1,6 +1,9 @@
 # jemdoc: menu{MENU}{research.html}, nofooter
 = Publications and Preprints
 
+- *On the Dualization of Operator-Valued Kernel Machines* (Under review)\n
+  Pierre Laforgue\*, Alex Lambert\*, Luc Motte, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/1910.04621 arxiv]\]
+
 - *Statistical Learning from Biased Training Samples* (Under review)\n
   Pierre Laforgue, Stephan Clémençon~~\[[\/https://arxiv.org/abs/1906.12304 arxiv], [\/https://github.com/plaforgue/db_learn code]\]
 
