@@ -51,7 +51,8 @@ tt {
 }
 
 pre, tt {
-	font-family: monaco;
+	font-size: 90%;
+	font-family: monaco, monospace;
 }
 
 a, a > tt {
