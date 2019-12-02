@@ -23,6 +23,10 @@
 Here you can find slides I have used during some of my oral presentations.
 
 
+*On the Dualization of Operator-Valued Kernel Machines*
+- Séminaire [\/https://palaisien.herokuapp.com/ /Le Palaisien/], Palaiseau, France, Dec. 2019.~~\[[\/subfiles/palaisien.pdf slides]\]
+
+
 *On Medians-of-(Randomized)-Pairwise-Means*
 - International Conference on Machine Learning (ICML), Long Beach, CA, Jun. 2019.~~\[[\/subfiles/icml.pdf slides]\]
 - Conférence sur l'Apprentissage automatique (CAp), Toulouse, France, Jul. 2019.~~\[[\/subfiles/cap_19.pdf slides]\]
@@ -41,4 +45,4 @@ Here you can find slides I have used during some of my oral presentations.
 
 = Reviewing
 I have been an official reviewer for the following conferences:
-- NeurIPS 2019 (top reviewer)
+- NeurIPS 2019 (top reviewer), ICML 2020
