@@ -1,10 +1,10 @@
 # jemdoc: menu{MENU}{research.html}, nofooter
 = Publications and Preprints
 
-- *On the Dualization of Operator-Valued Kernel Machines* (Under review)\n
-  +Pierre Laforgue+\*, Alex Lambert\*, Luc Brogat-Motte, Florence d'Alché-Buc (\*equal contribution)~~\[[\/https://arxiv.org/abs/1910.04621 arxiv]\]
+- *Duality in RKHSs with Infinite Dimensional Outputs: Application to Robust Losses* (Submitted)\n
+  +Pierre Laforgue+, Alex Lambert, Luc Brogat-Motte, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/1910.04621 arxiv]\]
 
-- *Statistical Learning from Biased Training Samples* (Under review)\n
+- *Statistical Learning from Biased Training Samples* (Submitted)\n
   +Pierre Laforgue+, Stephan Clémençon~~\[[\/https://arxiv.org/abs/1906.12304 arxiv], [\/https://github.com/plaforgue/db_learn code]\]
 
 
@@ -45,4 +45,5 @@ Here you can find slides I have used during some of my oral presentations.
 
 = Reviewing
 I have been an official reviewer for the following conferences:
-- NeurIPS 2019 (top reviewer), ICML 2020
+- NeurIPS 2019 (top reviewer), 2020
+- ICML 2020
