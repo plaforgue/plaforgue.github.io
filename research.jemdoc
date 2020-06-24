@@ -1,11 +1,17 @@
 # jemdoc: menu{MENU}{research.html}, nofooter
 = Publications and Preprints
 
-- *Duality in RKHSs with Infinite Dimensional Outputs: Application to Robust Losses* (Submitted)\n
-  +Pierre Laforgue+, Alex Lambert, Luc Brogat-Motte, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/1910.04621 arxiv]\]
+- *When OT meets MoM: Robust estimation of Wasserstein Distance* (Submitted)\n
+  Guillaume Staerman, +Pierre Laforgue+, Pavlo Mozharovskyi, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/2006.10325 arxiv]\]
 
-- *Statistical Learning from Biased Training Samples* (Submitted)\n
+- *How Robust is the Median-of-Means? Concentration Bounds in Presence of Outliers* (Submitted)\n
+  +Pierre Laforgue+, Guillaume Staerman, Stephan Clémençon~~\[[\/https://arxiv.org/abs/2006.05240 arxiv]\]
+
+- *On Statistical Learning from Biased Training Samples* (Submitted)\n
   +Pierre Laforgue+, Stephan Clémençon~~\[[\/https://arxiv.org/abs/1906.12304 arxiv], [\/https://github.com/plaforgue/db_learn code]\]
+
+- *Duality in RKHSs with Infinite Dimensional Outputs: Application to Robust Losses* (ICML 2020)\n
+  +Pierre Laforgue+, Alex Lambert, Luc Brogat-Motte, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/1910.04621 arxiv]\]
 
 
 - *On Medians-of-(Randomized)-Pairwise-Means* (ICML 2019)\n
@@ -21,6 +27,10 @@
 
 = Oral Presentations
 Here you can find slides I have used during some of my oral presentations.
+
+
+*On Statistical Learning from Biased Training Samples*
+- Workshop Datacraft /Fiabilité des algorithmes/, Online, Jun. 2020.~~\[[\/subfiles/datacraft.pdf slides], [\/subfiles/datacraft_vid.mp4 video]\]
 
 
 *On the Dualization of Operator-Valued Kernel Machines*
@@ -44,6 +54,6 @@ Here you can find slides I have used during some of my oral presentations.
 
 
 = Reviewing
-I have been an official reviewer for the following conferences:
+I have been reviewing for the following conferences:
 - NeurIPS 2019 (top reviewer), 2020
 - ICML 2020
