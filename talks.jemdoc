@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU}{talks.html}, nofooter
+= Oral Presentations
+
+Here you can find slides I have used during some of my oral presentations.
+
+
+*Duality in RKHSs with Infinite Dimensional Outputs: Application to Robust Losses*
+- International Conference on Machine Learning (ICML), Online, Jul. 2020.~~\[[\/subfiles/icml_dual.pdf slides]\]
+
+
+*Deep Kernel Representation Learning for Complex Data and Reliability Issues*
+- PhD defense, Online, Jun. 2020.~~\[[\/subfiles/defense.pdf slides]\]
+
+
+*Statistical Learning from Biased Training Samples*
+- Workshop Datacraft /Fiabilité des algorithmes/, Online, Jun. 2020.~~\[[\/subfiles/datacraft.pdf slides], [\/subfiles/datacraft_vid.mp4 video]\]
+
+
+*On the Dualization of Operator-Valued Kernel Machines*
+- Séminaire [\/https://palaisien.herokuapp.com/ /Le Palaisien/], Palaiseau, France, Dec. 2019.~~\[[\/subfiles/palaisien.pdf slides]\]
+
+
+*On Medians-of-(Randomized)-Pairwise-Means*
+- International Conference on Machine Learning (ICML), Long Beach, CA, Jun. 2019.~~\[[\/subfiles/icml_morm.pdf slides]\]
+- Conférence sur l'Apprentissage automatique (CAp), Toulouse, France, Jul. 2019.~~\[[\/subfiles/cap_19.pdf slides]\]
+- Journée de la Chaire /DS & AI for Digitalized Industry & Services/, Télécom Paris, France, Sep. 2019.~~\[[\/subfiles/chaire_19.pdf slides]\]
+
+
+*Autoencoding any Data through Kernel Autoencoders*
+- Journées De Statistique (JDS), Saclay, France, May 2018.~~\[[\/subfiles/jds.pdf slides]\]
+- Conférence sur l'Apprentissage automatique (CAp), Rouen, France, Jun. 2018.~~\[[\/subfiles/cap_18.pdf slides]\]
+- European Network for Business and Industrial Statistics (ENBIS), Nancy, France, Sep. 2018.~~\[[\/subfiles/enbis.pdf slides]\]
+- Invited talk in Pr. Iwata Hiroyoshi's lab, Tōdai University of Tokyo, Japan, Apr. 2019.~~\[[\/subfiles/todai.pdf slides]\]

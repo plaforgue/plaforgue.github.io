@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{publis.html}, nofooter
+= Publications and Preprints
+
+- *When OT meets MoM: Robust estimation of Wasserstein Distance* (Submitted)\n
+  Guillaume Staerman, +Pierre Laforgue+, Pavlo Mozharovskyi, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/2006.10325 arxiv]\]
+
+- *How Robust is the Median-of-Means? Concentration Bounds in Presence of Outliers* (Submitted)\n
+  +Pierre Laforgue+, Guillaume Staerman, Stephan Clémençon~~\[[\/https://arxiv.org/abs/2006.05240 arxiv]\]
+
+- *Deep Kernel Representation Learning for Complex Data and Reliability Issues* (PhD dissertation)\n
+  +Pierre Laforgue+~~\[[\/subfiles/manuscript.pdf manuscript]\]
+
+- *On Statistical Learning from Biased Training Samples* (Submitted)\n
+  +Pierre Laforgue+, Stephan Clémençon~~\[[\/https://arxiv.org/abs/1906.12304 arxiv], [\/https://github.com/plaforgue/db_learn code]\]
+
+- *Duality in RKHSs with Infinite Dimensional Outputs: Application to Robust Losses* (ICML 2020)\n
+  +Pierre Laforgue+, Alex Lambert, Luc Brogat-Motte, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/1910.04621 arxiv]\]
+
+
+- *On Medians-of-(Randomized)-Pairwise-Means* (ICML 2019)\n
+  +Pierre Laforgue+, Stephan Clémençon, Patrice Bertail~~\[[\/subfiles/morm_paper.pdf paper, [\/subfiles/morm_poster.pdf poster], [\/https://github.com/plaforgue/morm code]]\]
+
+
+- *Autoencoding any Data through Kernel Autoencoders* (AISTATS 2019)\n
+  +Pierre Laforgue+, Stephan Clémençon, Florence d'Alché-Buc~~\[[\/subfiles/kae_paper.pdf paper, [\/subfiles/kae_poster.pdf poster], [\/https://github.com/plaforgue/kae code]]\]
