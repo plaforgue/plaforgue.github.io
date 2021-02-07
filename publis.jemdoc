@@ -1,20 +1,25 @@
 # jemdoc: menu{MENU}{publis.html}, nofooter
 = Publications and Preprints
 
-- *When OT meets MoM: Robust estimation of Wasserstein Distance* (Submitted)\n
-  Guillaume Staerman, +Pierre Laforgue+, Pavlo Mozharovskyi, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/2006.10325 arxiv]\]
 
-- *How Robust is the Median-of-Means? Concentration Bounds in Presence of Outliers* (Submitted)\n
-  +Pierre Laforgue+, Guillaume Staerman, Stephan Clémençon~~\[[\/https://arxiv.org/abs/2006.05240 arxiv]\]
+- *Generalization Bounds in the Presence of Outliers: a Median-of-Means Study* (Submitted)\n
+  +Pierre Laforgue+, Guillaume Staerman, Stephan Clémençon~~\[[\/https://arxiv.org/abs/2006.05240 paper]\]
 
-- *Deep Kernel Representation Learning for Complex Data and Reliability Issues* (PhD dissertation)\n
-  +Pierre Laforgue+~~\[[\/subfiles/manuscript.pdf manuscript]\]
 
 - *On Statistical Learning from Biased Training Samples* (Submitted)\n
-  +Pierre Laforgue+, Stephan Clémençon~~\[[\/https://arxiv.org/abs/1906.12304 arxiv], [\/https://github.com/plaforgue/db_learn code]\]
+  +Pierre Laforgue+, Stephan Clémençon~~\[[\/https://arxiv.org/abs/1906.12304 paper], [\/https://github.com/plaforgue/db_learn code]\]
+
+
+- *When OT meets MoM: Robust estimation of Wasserstein Distance* (AISTATS 2021)\n
+  Guillaume Staerman, +Pierre Laforgue+, Pavlo Mozharovskyi, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/2006.10325 paper]\]
+
+
+- *Deep Kernel Representation Learning for Complex Data and Reliability Issues* (PhD dissertation, 2020)\n
+  +Pierre Laforgue+~~\[[\/subfiles/manuscript.pdf manuscript], [\/subfiles/defense.pdf defense slides]\]
+
 
 - *Duality in RKHSs with Infinite Dimensional Outputs: Application to Robust Losses* (ICML 2020)\n
-  +Pierre Laforgue+, Alex Lambert, Luc Brogat-Motte, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/1910.04621 arxiv]\]
+  +Pierre Laforgue+, Alex Lambert, Luc Brogat-Motte, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/1910.04621 paper]\]
 
 
 - *On Medians-of-(Randomized)-Pairwise-Means* (ICML 2019)\n
