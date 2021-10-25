@@ -9,7 +9,7 @@ Postdoctoral Reseacher\n
 /Università degli Studi di Milano/\n\n
 *Contact*\n
 Email: pierre \[dot\] laforgue \[at\] unimi.it\n
-Others: [\/https://scholar.google.fr/citations?hl=fr&user=OY1p2foAAAAJ Google Scholar], [\/https://github.com/plaforgue Github], [\/https://fr.linkedin.com/in/pierre-laforgue LinkedIn]
+Others: [\/https://scholar.google.fr/citations?hl=fr&user=OY1p2foAAAAJ Google Scholar], [\/https://github.com/plaforgue GitHub], [\/https://fr.linkedin.com/in/pierre-laforgue LinkedIn]
 
 ~~~
 
@@ -30,9 +30,9 @@ You can find more about my background on my [\/https://fr.linkedin.com/in/pierre
 
 == Research Interests
 My research interests are broadly Machine Learning and Statistical Learning Theory, and include more precisely:
-- Online Learning, Online Convex Optimization
-- Kernel Methods, Vector-Valued RKHSs, Structured Prediction
-- Robust Learning, Median-of-Means Estimators, Debiasing Methods
-- Representation Learning, Autoencoders
+- Online Learning and Bandits
+- Robust Learning and Median-of-Means
+- Kernel Methods and Vector-Valued RKHSs
+- Statistical Learning and Sample Bias Issues
 
 My list of publications is available [publis.html here].

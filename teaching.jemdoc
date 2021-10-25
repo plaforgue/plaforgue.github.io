@@ -1,6 +1,12 @@
 # jemdoc: menu{MENU}{teaching.html}, nofooter
 == Teaching
 
+I have served as a *teaching assistant* for the following summer school:
+- [\/https://rl-vs.github.io/rlvs2021/index.html Reinforcement Learning Virtual School] (RLVS 2021)\n\n
+
+During my post-doctoral studies, I taught the following *PhD course* at the University of Milan:
+- Online Learning Theory (2021)\n\n
+
 During my PhD, I have been a *teaching assistant* at Télécom Paris for the following courses:
 - Applied Statistics
 - Statistics: Linear Models
@@ -8,7 +14,7 @@ During my PhD, I have been a *teaching assistant* at Télécom Paris for the fol
 - Advanced Machine Learning
 - Statistical Learning and Data Mining\n\n
 
-I was also a *scientific advisor* for Data Science projects conducted jointly with *French companies*:
+I was also a *scientific advisor* for Data Science projects conducted jointly with French companies:
 - Predictive maintenance on helicopters~~(Safran 2017)
 - Multi-dimensional time series visualization~~(Safran 2018)
 - Energy saving in a silicon furnace~~(Bearing Point \& Ferroglobe 2019)
