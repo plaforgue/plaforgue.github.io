@@ -7,37 +7,37 @@ Please find below my list of publications, organized by topics. See also my [\/h
 == Online Learning and Bandits
 
 - *Break your Bandit Routine with LSD Rewards: a Last Switch Dependent Analysis of Satiation and Seasonality* (Submitted)\n
-  Pierre Laforgue, Giulia Clerici, Nicolò Cesa-Bianchi, Ran Gilad-Bachrach~~\[[\/https://arxiv.org/abs/2110.11819 paper]\]
+  Pierre Laforgue, Giulia Clerici, Nicolò Cesa-Bianchi, Ran Gilad-Bachrach~~\[[\/https://arxiv.org/abs/2110.11819 paper], [\/https://github.com/giuliaclerici/lsd_bandits code]\]
 
 - *Multitask Online Mirror Descent* (Submitted)\n
-  Nicolò Cesa-Bianchi, Pierre Laforgue, Andrea Paudice, Massimiliano Pontil~~\[[\/https://arxiv.org/abs/2106.02393 paper]\]
+  Nicolò Cesa-Bianchi, Pierre Laforgue, Andrea Paudice, Massimiliano Pontil~~\[[\/https://arxiv.org/abs/2106.02393 paper], [\/subfiles/slides_mt_omd.pdf slides]\]
 
 
 == Robust Learning and Median-of-Means
 
 - *Generalization Bounds in the Presence of Outliers: a Median-of-Means Study* (ICML 2021)\n
-  Pierre Laforgue, Guillaume Staerman, Stephan Clémençon~~\[[\/https://arxiv.org/abs/2006.05240 paper]\]
+  Pierre Laforgue, Guillaume Staerman, Stephan Clémençon~~\[[\/https://arxiv.org/abs/2006.05240 paper], [\/subfiles/poster_mom_outliers.pdf poster], [\/subfiles/slides_mom_outliers.pdf slides]\]
 
 - *When OT meets MoM: Robust estimation of Wasserstein Distance* (AISTATS 2021)\n
-  Guillaume Staerman, Pierre Laforgue, Pavlo Mozharovskyi, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/2006.10325 paper]\]
+  Guillaume Staerman, Pierre Laforgue, Pavlo Mozharovskyi, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/2006.10325 paper], [\/https://github.com/GuillaumeStaermanML/MoM-Wasserstein code]\]
 
 - *On Medians-of-(Randomized)-Pairwise-Means* (ICML 2019)\n
-  Pierre Laforgue, Stephan Clémençon, Patrice Bertail~~\[[\/subfiles/morm_paper.pdf paper, [\/subfiles/morm_poster.pdf poster], [\/https://github.com/plaforgue/morm code]]\]
+  Pierre Laforgue, Stephan Clémençon, Patrice Bertail~~\[[\/subfiles/paper_morm.pdf paper], [\/https://github.com/plaforgue/morm code], [\/subfiles/poster_morm.pdf poster], [\/subfiles/slides_morm.pdf slides]\]
 
 
 == Kernel Methods and Vector-Valued RKHSs
 
 - *Duality in RKHSs with Infinite Dimensional Outputs: Application to Robust Losses* (ICML 2020)\n
-  Pierre Laforgue, Alex Lambert, Luc Brogat-Motte, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/1910.04621 paper]\]
+  Pierre Laforgue, Alex Lambert, Luc Brogat-Motte, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/1910.04621 paper], [\/subfiles/slides_dual_ovk.pdf slides]\]
 
 - *Autoencoding any Data through Kernel Autoencoders* (AISTATS 2019)\n
-  Pierre Laforgue, Stephan Clémençon, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/1805.11028 paper, [\/subfiles/kae_poster.pdf poster], [\/https://github.com/plaforgue/kae code]]\]
+  Pierre Laforgue, Stephan Clémençon, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/1805.11028 paper], [\/https://github.com/plaforgue/kae code], [\/subfiles/poster_kae.pdf poster], [\/subfiles/slides_kae.pdf slides]\]
 
 
 == Statistical Learning and Selection Bias
 
 - *Statistical Learning from Biased Training Samples* (Submitted)\n
-  Stephan Clémençon, Pierre Laforgue~~\[[\/https://arxiv.org/abs/1906.12304 paper], [\/https://github.com/plaforgue/db_learn code]\]
+  Stephan Clémençon, Pierre Laforgue~~\[[\/https://arxiv.org/abs/1906.12304 paper], [\/https://github.com/plaforgue/db_learn code], [\/subfiles/slides_bias.pdf slides], [\/subfiles/datacraft_vid.mp4 video]\]
 
 - *Visual Recognition with Deep Learning from Biased Image Datasets* (Submitted)\n
   Robin Vogel, Stephan Clémençon, Pierre Laforgue~~\[[\/https://arxiv.org/abs/2109.02357 paper]\]
@@ -45,4 +45,4 @@ Please find below my list of publications, organized by topics. See also my [\/h
 
 == PhD Dissertation
 - *Deep Kernel Representation Learning for Complex Data and Reliability Issues* (2020)\n
-  Pierre Laforgue~~\[[\/subfiles/manuscript.pdf manuscript], [\/subfiles/defense.pdf defense slides]\]
+  Pierre Laforgue~~\[[\/subfiles/manuscript.pdf manuscript], [\/subfiles/slides_defense.pdf defense slides]\]
