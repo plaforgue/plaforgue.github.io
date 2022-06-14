@@ -6,6 +6,9 @@ Please find below my list of publications, organized by topics. See also my [\/h
 
 == Online Learning and Bandits
 
+- *AdaTask: Adaptive Multitask Online Learning* (Submitted)\n
+  Pierre Laforgue\*, Andrea Della Vecchia\*, Nicolò Cesa-Bianchi, Lorenzo Rosasco~~\[[\/https://arxiv.org/abs/2205.15802 paper]\]
+
 - *Multitask Online Mirror Descent* (Submitted)\n
   Nicolò Cesa-Bianchi, Pierre Laforgue, Andrea Paudice, Massimiliano Pontil~~\[[\/https://arxiv.org/abs/2106.02393 paper], [\/subfiles/slides_mt_omd.pdf slides]\]
 
@@ -26,6 +29,9 @@ Please find below my list of publications, organized by topics. See also my [\/h
 
 
 == Kernel Methods and Vector-Valued RKHSs
+
+- *$p$-Sparsified Sketches for Fast Multiple Output Kernel Methods* (Submitted)\n
+  Tamim El Ahmad, Pierre Laforgue, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/2206.03827 paper]\]
 
 - *Duality in RKHSs with Infinite Dimensional Outputs: Application to Robust Losses* (ICML 2020)\n
   Pierre Laforgue, Alex Lambert, Luc Brogat-Motte, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/1910.04621 paper], [\/subfiles/slides_dual_ovk.pdf slides]\]
