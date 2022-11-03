@@ -9,7 +9,7 @@ Please find below my list of publications, organized by topics. See also my [\/h
 - *AdaTask: Adaptive Multitask Online Learning* (Submitted)\n
   Pierre Laforgue\*, Andrea Della Vecchia\*, Nicolò Cesa-Bianchi, Lorenzo Rosasco~~\[[\/https://arxiv.org/abs/2205.15802 paper]\]
 
-- *Multitask Online Mirror Descent* (Submitted)\n
+- *Multitask Online Mirror Descent* (TMLR 2022)\n
   Nicolò Cesa-Bianchi, Pierre Laforgue, Andrea Paudice, Massimiliano Pontil~~\[[\/https://arxiv.org/abs/2106.02393 paper], [\/subfiles/slides_mt_omd.pdf slides]\]
 
 - *A Last Switch Dependent Analysis of Satiation and Seasonality in Bandits* (AISTATS 2022)\n
@@ -25,7 +25,7 @@ Please find below my list of publications, organized by topics. See also my [\/h
   Guillaume Staerman, Pierre Laforgue, Pavlo Mozharovskyi, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/2006.10325 paper], [\/https://github.com/GuillaumeStaermanML/MoM-Wasserstein code]\]
 
 - *On Medians-of-(Randomized)-Pairwise-Means* (ICML 2019)\n
-  Pierre Laforgue, Stephan Clémençon, Patrice Bertail~~\[[\/subfiles/paper_morm.pdf paper], [\/https://github.com/plaforgue/morm code], [\/subfiles/poster_morm.pdf poster], [\/subfiles/slides_morm.pdf slides]\]
+  Pierre Laforgue, Stephan Clémençon, Patrice Bertail~~\[[\/https://arxiv.org/abs/2211.00603 paper], [\/https://github.com/plaforgue/morm code], [\/subfiles/poster_morm.pdf poster], [\/subfiles/slides_morm.pdf slides]\]
 
 
 == Kernel Methods and Vector-Valued RKHSs
