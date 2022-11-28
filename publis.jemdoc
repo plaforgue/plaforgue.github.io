@@ -42,11 +42,11 @@ Please find below my list of publications, organized by topics. See also my [\/h
 
 == Statistical Learning and Selection Bias
 
-- *Statistical Learning from Biased Training Samples* (Submitted)\n
-  Stephan Clémençon, Pierre Laforgue~~\[[\/https://arxiv.org/abs/1906.12304 paper], [\/https://github.com/plaforgue/db_learn code], [\/subfiles/slides_bias.pdf slides], [\/subfiles/datacraft_vid.mp4 video]\]
+- *Fighting Selection Bias in Statistical Learning: Application to Visual Recognition from Biased Image Databases* (Submitted)\n
+  Stephan Clémençon, Pierre Laforgue, Robin Vogel~~\[[\/https://arxiv.org/abs/2109.02357 paper]\]
 
-- *Visual Recognition with Deep Learning from Biased Image Datasets* (Submitted)\n
-  Robin Vogel, Stephan Clémençon, Pierre Laforgue~~\[[\/https://arxiv.org/abs/2109.02357 paper]\]
+- *Statistical Learning from Biased Training Samples* (Electronic Journal of Statistics, 2022)\n
+  Stephan Clémençon, Pierre Laforgue~~\[[\/https://arxiv.org/abs/1906.12304 paper], [\/https://github.com/plaforgue/db_learn code], [\/subfiles/slides_bias.pdf slides], [\/subfiles/datacraft_vid.mp4 video]\]
 
 
 == PhD Dissertation
