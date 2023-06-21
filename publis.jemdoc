@@ -6,8 +6,14 @@ Please find below my list of publications, organized by topics. See also my [\/h
 
 == Online Learning and Bandits
 
-- *AdaTask: Adaptive Multitask Online Learning* (Submitted)\n
-  Pierre Laforgue\*, Andrea Della Vecchia\*, Nicolò Cesa-Bianchi, Lorenzo Rosasco~~\[[\/https://arxiv.org/abs/2205.15802 paper]\]
+- *DOPE-FL: Decentralized Online and Private Federated Learning with Heterogeneous Data* (Work in Progress)\n
+  Juliette Achdou, Pierre Laforgue, Nicolò Cesa-Bianchi
+
+- *Multitask Learning with No Regret: from Improved Confidence Bounds to Active Learning* (Submitted)\n
+  Pier Giuseppe Sessa\*, Pierre Laforgue\*, Nicolò Cesa-Bianchi, Andreas Krause
+
+- *Linear Bandits with Memory: from Rotting to Rising* (Submitted)\n
+  Giulia Clerici, Pierre Laforgue, Nicolò Cesa-Bianchi~~\[[\/https://arxiv.org/abs/2302.08345 paper], [\/https://github.com/GiuliaClerici/Linear-Bandits-with-Memory code]\]
 
 - *Multitask Online Mirror Descent* (TMLR 2022)\n
   Nicolò Cesa-Bianchi, Pierre Laforgue, Andrea Paudice, Massimiliano Pontil~~\[[\/https://arxiv.org/abs/2106.02393 paper], [\/subfiles/slides_mt_omd.pdf slides]\]
@@ -28,9 +34,12 @@ Please find below my list of publications, organized by topics. See also my [\/h
   Pierre Laforgue, Stephan Clémençon, Patrice Bertail~~\[[\/https://arxiv.org/abs/2211.00603 paper], [\/https://github.com/plaforgue/morm code], [\/subfiles/poster_morm.pdf poster], [\/subfiles/slides_morm.pdf slides]\]
 
 
-== Kernel Methods and Vector-Valued RKHSs
+== Kernel Methods and Sketching
 
-- *$p$-Sparsified Sketches for Fast Multiple Output Kernel Methods* (Submitted)\n
+- *Sketch In, Sketch Out: Accelerating both Learning and Inference for Structured Prediction with Kernels* (Submitted)\n
+  Tamim El Ahmad, Luc Brogat-Motte, Pierre Laforgue, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/2302.10128 paper]\]
+
+- *Fast Kernel Methods for Generic Lipschitz Losses via $p$-Sparsified Sketches* (Submitted)\n
   Tamim El Ahmad, Pierre Laforgue, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/2206.03827 paper]\]
 
 - *Duality in RKHSs with Infinite Dimensional Outputs: Application to Robust Losses* (ICML 2020)\n

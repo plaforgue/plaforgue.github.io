@@ -6,7 +6,7 @@
 {}{img_left}{subfiles/me.jpg}{alt text}{130px}
 
 Postdoctoral Reseacher\n
-/Università degli Studi di Milano/\n\n
+/University of Milan/\n\n
 *Contact*\n
 Email: pierre \[dot\] laforgue \[at\] unimi.it\n
 Others: [\/https://scholar.google.fr/citations?hl=fr&user=OY1p2foAAAAJ Google Scholar], [\/https://github.com/plaforgue GitHub], [\/https://fr.linkedin.com/in/pierre-laforgue LinkedIn]
@@ -15,12 +15,17 @@ Others: [\/https://scholar.google.fr/citations?hl=fr&user=OY1p2foAAAAJ Google Sc
 
 
 == About me
-I am currently a postdoctoral researcher at the Università degli Studi di Milano, Milan, Italy.\n
-I am working with professor [\/http://cesa-bianchi.di.unimi.it/ Nicolò Cesa-Bianchi] on the analysis of online and active learning algorithms among the [\/https://sites.google.com/view/lailaunimi/ LAILA team].\n
-I am also co-supervising the PhD thesis of Tamim El Ahmad on scaling-up operator-valued kernel machines with professor [\/https://perso.telecom-paristech.fr/fdalche/ Florence d'Alché-Buc].
+I am currently a postdoctoral researcher at the University of Milan, Italy. I work among the [\/https://sites.google.com/view/lailaunimi/ LAILA team] led by professor [\/http://cesa-bianchi.di.unimi.it/ Nicolò Cesa-Bianchi].\n
+My recent research interests revolve around *multitask online learning* with applications to *federated learning* and *privacy preservation*.
 
-I hold a PhD in Machine Learning, prepared at Télécom Paris under the supervision of professors Florence d'Alché-Buc and [\/https://perso.telecom-paristech.fr/clemenco/ Stephan Clémençon].\n
-My dissertation focuses on /Deep Kernel Representation Learning for Complex Data and Reliability Issues/, see [\/subfiles/manuscript.pdf manuscript], [\/subfiles/slides_defense.pdf defense slides].\n
+
+I am also currently co-supervising two PhD theses:
+- [\/https://www.clericigiulia.com/ Giulia Clerici], working on *nonstationary bandits* for music recommendation (co-supervised with N. Cesa-Bianchi)
+- [\/https://arxiv.org/search/stat?searchtype=author&query=Ahmad%2C+T+E Tamim El Ahmad], working on *sketching algorithms* to scale-up operator-valued kernel machines (co-supervised with F. d'Alché-Buc)
+
+
+I hold a PhD in Machine Learning, prepared at Télécom Paris under the supervision of professors [\/https://perso.telecom-paristech.fr/fdalche/ Florence d'Alché-Buc] and [\/https://perso.telecom-paristech.fr/clemenco/ Stephan Clémençon].\n
+My dissertation focuses on /Deep Kernel Representation Learning for Complex Data and Reliability Issues/ ([\/subfiles/manuscript.pdf manuscript], [\/subfiles/slides_defense.pdf defense slides]).\n
 During my PhD, I have been awarded a research grant by the chair Good in Tech to study algorithms in the presence of selection bias.
 
 
@@ -29,10 +34,12 @@ You can find more about my background on my [\/https://fr.linkedin.com/in/pierre
 
 
 == Research Interests
-My research interests are broadly Machine Learning and Statistical Learning Theory, and include more precisely:
-- Online Learning and Bandits
+My research interests revolve around Learning Theory, and include more precisely:
+- Multitask Online Learning
+- Federated Learning and Privacy Preservation
+- Bandit Algorithms
 - Robust Learning and Median-of-Means
-- Kernel Methods and Vector-Valued RKHSs
+- Kernel Methods and Sketching Algorithms
 - Statistical Learning and Sample Bias Issues
 
 My list of publications is available [publis.html here].
@@ -40,6 +47,5 @@ My list of publications is available [publis.html here].
 
 
 == News
-- Nov. 22: Our paper about [\/https://arxiv.org/abs/1906.12304 Statistical Learning from Biased Training Samples] has been published in the [\/https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-16/issue-2 Electronic Journal of Statistics] ! (with S. Clémençon)
-- Oct. 22: I'll be talking about Multitask Online Learning at the [\/https://conferences.cirm-math.fr/2551.html Learning and Optimization in Luminy (LOL 22) Workshop] !
-- Sep. 22: I'll be talking about Median-of-Means based Machine Learning at the [\/https://cs.unibocconi.eu/events/ellismilan-artificial-intelligence-workshop ELLIS@Milan Artificial Intelligence workshop] !
+- Mar. 23: I gave a PhD course on multitask online learning at the 4th Greenedge PhD School on Edge Computing !
+- Mar. 23: We presented our work on online federated learning (with J. Achdou and N. Cesa-Bianchi) at the first [\/https://cispa.de/en/elsa-workshop-helsinki ELSA Workshop] in Helsinki !
