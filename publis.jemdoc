@@ -6,14 +6,14 @@ Please find below my list of publications, organized by topics. See also my [\/h
 
 == Online Learning and Bandits
 
-- *DOPE-FL: Decentralized Online and Private Federated Learning with Heterogeneous Data* (Work in Progress)\n
-  Juliette Achdou, Pierre Laforgue, Nicolò Cesa-Bianchi
+- *Multitask Cooperative Online Learning with Privacy* (Preprint)\n
+  Juliette Achddou, Nicolò Cesa-Bianchi, Pierre Laforgue
 
-- *Multitask Learning with No Regret: from Improved Confidence Bounds to Active Learning* (Submitted)\n
-  Pier Giuseppe Sessa\*, Pierre Laforgue\*, Nicolò Cesa-Bianchi, Andreas Krause
-
-- *Linear Bandits with Memory: from Rotting to Rising* (Submitted)\n
+- *Linear Bandits with Memory: from Rotting to Rising* (Preprint)\n
   Giulia Clerici, Pierre Laforgue, Nicolò Cesa-Bianchi~~\[[\/https://arxiv.org/abs/2302.08345 paper], [\/https://github.com/GiuliaClerici/Linear-Bandits-with-Memory code]\]
+
+- *Multitask Learning with No Regret: from Improved Confidence Bounds to Active Learning* (NeurIPS 2023)\n
+  Pier Giuseppe Sessa\*, Pierre Laforgue\*, Nicolò Cesa-Bianchi, Andreas Krause~~\[[\/https://arxiv.org/abs/2308.01744 paper]\]
 
 - *Multitask Online Mirror Descent* (TMLR 2022)\n
   Nicolò Cesa-Bianchi, Pierre Laforgue, Andrea Paudice, Massimiliano Pontil~~\[[\/https://arxiv.org/abs/2106.02393 paper], [\/subfiles/slides_mt_omd.pdf slides]\]
@@ -36,10 +36,10 @@ Please find below my list of publications, organized by topics. See also my [\/h
 
 == Kernel Methods and Sketching
 
-- *Sketch In, Sketch Out: Accelerating both Learning and Inference for Structured Prediction with Kernels* (Submitted)\n
+- *Sketch In, Sketch Out: Accelerating both Learning and Inference for Structured Prediction with Kernels* (Preprint)\n
   Tamim El Ahmad, Luc Brogat-Motte, Pierre Laforgue, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/2302.10128 paper]\]
 
-- *Fast Kernel Methods for Generic Lipschitz Losses via $p$-Sparsified Sketches* (Submitted)\n
+- *Fast Kernel Methods for Generic Lipschitz Losses via $p$-Sparsified Sketches* (TMLR 2023)\n
   Tamim El Ahmad, Pierre Laforgue, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/2206.03827 paper]\]
 
 - *Duality in RKHSs with Infinite Dimensional Outputs: Application to Robust Losses* (ICML 2020)\n
@@ -51,7 +51,7 @@ Please find below my list of publications, organized by topics. See also my [\/h
 
 == Statistical Learning and Selection Bias
 
-- *Fighting Selection Bias in Statistical Learning: Application to Visual Recognition from Biased Image Databases* (Submitted)\n
+- *Fighting Selection Bias in Statistical Learning: Application to Visual Recognition from Biased Image Databases* (Journal of Nonparametric Statistics 2023)\n
   Stephan Clémençon, Pierre Laforgue, Robin Vogel~~\[[\/https://arxiv.org/abs/2109.02357 paper]\]
 
 - *Statistical Learning from Biased Training Samples* (Electronic Journal of Statistics, 2022)\n
