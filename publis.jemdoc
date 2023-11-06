@@ -6,14 +6,14 @@ Please find below my list of publications, organized by topics. See also my [\/h
 
 == Online Learning and Bandits
 
-- *Multitask Cooperative Online Learning with Privacy* (Preprint)\n
-  Juliette Achddou, Nicolò Cesa-Bianchi, Pierre Laforgue
+- *Multitask Online Learning: Listen to the Neighborhood Buzz* (Preprint)\n
+  Juliette Achddou, Nicolò Cesa-Bianchi, Pierre Laforgue~~\[[\/https://arxiv.org/abs/2310.17385 paper]\]
 
 - *Linear Bandits with Memory: from Rotting to Rising* (Preprint)\n
   Giulia Clerici, Pierre Laforgue, Nicolò Cesa-Bianchi~~\[[\/https://arxiv.org/abs/2302.08345 paper], [\/https://github.com/GiuliaClerici/Linear-Bandits-with-Memory code]\]
 
 - *Multitask Learning with No Regret: from Improved Confidence Bounds to Active Learning* (NeurIPS 2023)\n
-  Pier Giuseppe Sessa\*, Pierre Laforgue\*, Nicolò Cesa-Bianchi, Andreas Krause~~\[[\/https://arxiv.org/abs/2308.01744 paper]\]
+  Pier Giuseppe Sessa, Pierre Laforgue, Nicolò Cesa-Bianchi, Andreas Krause~~\[[\/https://arxiv.org/abs/2308.01744 paper], [\/https://github.com/sessap/multitask-noregret code]\]
 
 - *Multitask Online Mirror Descent* (TMLR 2022)\n
   Nicolò Cesa-Bianchi, Pierre Laforgue, Andrea Paudice, Massimiliano Pontil~~\[[\/https://arxiv.org/abs/2106.02393 paper], [\/subfiles/slides_mt_omd.pdf slides]\]

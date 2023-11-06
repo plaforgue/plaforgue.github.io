@@ -5,7 +5,7 @@
 ~~~
 {}{img_left}{subfiles/me.jpg}{alt text}{130px}
 
-Postdoctoral Reseacher\n
+Postdoctoral Researcher\n
 /University of Milan/\n\n
 *Contact*\n
 Email: pierre \[dot\] laforgue \[at\] unimi.it\n
@@ -16,7 +16,7 @@ Others: [\/https://scholar.google.fr/citations?hl=fr&user=OY1p2foAAAAJ Google Sc
 
 == About me
 I am currently a postdoctoral researcher at the University of Milan, Italy. I work among the [\/https://sites.google.com/view/lailaunimi/ LAILA team] led by professor [\/http://cesa-bianchi.di.unimi.it/ Nicolò Cesa-Bianchi].\n
-My recent research interests revolve around *multitask online learning* with applications to *federated learning* and *privacy preservation*.
+My recent research interests revolve around *multitask online learning* and *bandit algorithms* with applications to *federated learning*.
 
 
 I am also currently co-supervising two PhD theses:
@@ -24,22 +24,18 @@ I am also currently co-supervising two PhD theses:
 - [\/https://tamim-el.github.io/ Tamim El Ahmad], working on *sketching algorithms* to scale-up operator-valued kernel machines (co-supervised with F. d'Alché-Buc)
 
 
-I hold a PhD in Machine Learning, prepared at Télécom Paris under the supervision of professors [\/https://perso.telecom-paristech.fr/fdalche/ Florence d'Alché-Buc] and [\/https://perso.telecom-paristech.fr/clemenco/ Stephan Clémençon].\n
-My dissertation focuses on /Deep Kernel Representation Learning for Complex Data and Reliability Issues/ ([\/subfiles/manuscript.pdf manuscript], [\/subfiles/slides_defense.pdf defense slides]).\n
-During my PhD, I have been awarded a research grant by the chair Good in Tech to study algorithms in the presence of selection bias.
-
-
-Previously, I jointly graduated from ENSAE Paris and Master M2 MASH at ENS Cachan and Université Paris-Dauphine.\n
+Prior to this, I obtained my PhD from Télécom Paris, under the supervision of professors [\/https://perso.telecom-paristech.fr/fdalche/ Florence d'Alché-Buc] and [\/https://perso.telecom-paristech.fr/clemenco/ Stephan Clémençon].\n
 You can find more about my background on my [\/https://fr.linkedin.com/in/pierre-laforgue LinkedIn] or in my [\/subfiles/resume.pdf resume].
+
 
 
 == Research Interests
 My research interests revolve around Learning Theory, and include more precisely:
 - Multitask Online Learning
-- Federated Learning and Privacy Preservation
 - Bandit Algorithms
-- Robust Learning and Median-of-Means
+- Federated Learning and Privacy Preservation
 - Kernel Methods and Sketching Algorithms
+- Robust Learning and Median-of-Means
 - Statistical Learning and Sample Bias Issues
 
 My list of publications is available [publis.html here].
@@ -47,6 +43,6 @@ My list of publications is available [publis.html here].
 
 
 == News
-- Sep. 23: our [\/https://arxiv.org/abs/2308.01744 paper] on multitask online kernel Ridge regression got accepted at *NeurIPS* (joint work with PG Sessa, N. Cesa-Bianchi and A. Krause) !
+- Sep. 23: our [\/https://arxiv.org/abs/2308.01744 paper] on multitask online kernel Ridge regression got accepted at *NeurIPS* (joint work with P.G. Sessa, N. Cesa-Bianchi and A. Krause) !
 - Sep. 23: our [\/https://www.tandfonline.com/doi/full/10.1080/10485252.2023.2259011 paper] on debiasing methods for image databases got accepted at *Journal of Nonparametric Statistics* (joint work with S. Clémençon and R. Vogel) !
 - Aug. 23: our [\/https://arxiv.org/abs/2206.03827 paper] on sparsified sketches for Lipschitz kernel methods got accepted at *TMLR* (joint work with T. El Ahmad and F. d'Alché-Buc) !
