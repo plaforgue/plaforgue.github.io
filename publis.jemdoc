@@ -6,20 +6,35 @@ Please find below my list of publications, organized by topics. See also my [\/h
 
 == Online Learning and Bandits
 
-- *Multitask Online Learning: Listen to the Neighborhood Buzz* (Preprint)\n
-  Juliette Achddou, Nicolò Cesa-Bianchi, Pierre Laforgue~~\[[\/https://arxiv.org/abs/2310.17385 paper]\]
-
 - *Linear Bandits with Memory: from Rotting to Rising* (Preprint)\n
   Giulia Clerici, Pierre Laforgue, Nicolò Cesa-Bianchi~~\[[\/https://arxiv.org/abs/2302.08345 paper], [\/https://github.com/GiuliaClerici/Linear-Bandits-with-Memory code]\]
+
+- *Multitask Online Learning: Listen to the Neighborhood Buzz* (AISTATS 2024)\n
+  Juliette Achddou, Nicolò Cesa-Bianchi, Pierre Laforgue~~\[[\/https://arxiv.org/abs/2310.17385 paper]\]
 
 - *Multitask Learning with No Regret: from Improved Confidence Bounds to Active Learning* (NeurIPS 2023)\n
   Pier Giuseppe Sessa, Pierre Laforgue, Nicolò Cesa-Bianchi, Andreas Krause~~\[[\/https://arxiv.org/abs/2308.01744 paper], [\/https://github.com/sessap/multitask-noregret code]\]
 
-- *Multitask Online Mirror Descent* (TMLR 2022)\n
+- *Multitask Online Mirror Descent* (TMLR, 2022)\n
   Nicolò Cesa-Bianchi, Pierre Laforgue, Andrea Paudice, Massimiliano Pontil~~\[[\/https://arxiv.org/abs/2106.02393 paper], [\/subfiles/slides_mt_omd.pdf slides]\]
 
 - *A Last Switch Dependent Analysis of Satiation and Seasonality in Bandits* (AISTATS 2022)\n
   Pierre Laforgue, Giulia Clerici, Nicolò Cesa-Bianchi, Ran Gilad-Bachrach~~\[[\/https://arxiv.org/abs/2110.11819 paper], [\/https://github.com/giuliaclerici/lsd_bandits code]\]
+
+
+== Kernel Methods and Sketching
+
+- *Sketch In, Sketch Out: Accelerating both Learning and Inference for Structured Prediction with Kernels* (AISTATS 2024)\n
+  Tamim El Ahmad, Luc Brogat-Motte, Pierre Laforgue, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/2302.10128 paper]\]
+
+- *Fast Kernel Methods for Generic Lipschitz Losses via $p$-Sparsified Sketches* (TMLR, 2023)\n
+  Tamim El Ahmad, Pierre Laforgue, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/2206.03827 paper]\]
+
+- *Duality in RKHSs with Infinite Dimensional Outputs: Application to Robust Losses* (ICML 2020)\n
+  Pierre Laforgue, Alex Lambert, Luc Brogat-Motte, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/1910.04621 paper], [\/subfiles/slides_dual_ovk.pdf slides]\]
+
+- *Autoencoding any Data through Kernel Autoencoders* (AISTATS 2019)\n
+  Pierre Laforgue, Stephan Clémençon, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/1805.11028 paper], [\/https://github.com/plaforgue/kae code], [\/subfiles/poster_kae.pdf poster], [\/subfiles/slides_kae.pdf slides]\]
 
 
 == Robust Learning and Median-of-Means
@@ -34,24 +49,9 @@ Please find below my list of publications, organized by topics. See also my [\/h
   Pierre Laforgue, Stephan Clémençon, Patrice Bertail~~\[[\/https://arxiv.org/abs/2211.00603 paper], [\/https://github.com/plaforgue/morm code], [\/subfiles/poster_morm.pdf poster], [\/subfiles/slides_morm.pdf slides]\]
 
 
-== Kernel Methods and Sketching
-
-- *Sketch In, Sketch Out: Accelerating both Learning and Inference for Structured Prediction with Kernels* (Preprint)\n
-  Tamim El Ahmad, Luc Brogat-Motte, Pierre Laforgue, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/2302.10128 paper]\]
-
-- *Fast Kernel Methods for Generic Lipschitz Losses via $p$-Sparsified Sketches* (TMLR 2023)\n
-  Tamim El Ahmad, Pierre Laforgue, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/2206.03827 paper]\]
-
-- *Duality in RKHSs with Infinite Dimensional Outputs: Application to Robust Losses* (ICML 2020)\n
-  Pierre Laforgue, Alex Lambert, Luc Brogat-Motte, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/1910.04621 paper], [\/subfiles/slides_dual_ovk.pdf slides]\]
-
-- *Autoencoding any Data through Kernel Autoencoders* (AISTATS 2019)\n
-  Pierre Laforgue, Stephan Clémençon, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/1805.11028 paper], [\/https://github.com/plaforgue/kae code], [\/subfiles/poster_kae.pdf poster], [\/subfiles/slides_kae.pdf slides]\]
-
-
 == Statistical Learning and Selection Bias
 
-- *Fighting Selection Bias in Statistical Learning: Application to Visual Recognition from Biased Image Databases* (Journal of Nonparametric Statistics 2023)\n
+- *Fighting Selection Bias in Statistical Learning: Application to Visual Recognition from Biased Image Databases* (Journal of Nonparametric Statistics, 2023)\n
   Stephan Clémençon, Pierre Laforgue, Robin Vogel~~\[[\/https://arxiv.org/abs/2109.02357 paper]\]
 
 - *Statistical Learning from Biased Training Samples* (Electronic Journal of Statistics, 2022)\n
