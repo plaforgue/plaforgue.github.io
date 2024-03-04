@@ -16,10 +16,10 @@ Others: [\/https://scholar.google.fr/citations?hl=fr&user=OY1p2foAAAAJ Google Sc
 
 == About me
 I am currently a postdoctoral researcher at the University of Milan, Italy. I work among the [\/https://sites.google.com/view/lailaunimi/ LAILA team] led by professor [\/http://cesa-bianchi.di.unimi.it/ Nicolò Cesa-Bianchi].\n
-My recent research interests revolve around *multitask online learning* and *bandit algorithms* with applications to *federated learning*.
+My recent research interests revolve around *multitask online learning* and *bandit algorithms*, with applications to *federated learning*.
 
 
-I am also currently co-supervising two PhD theses:
+I am also currently co-supervising two PhD students:
 - [\/https://www.clericigiulia.com/ Giulia Clerici], working on *nonstationary bandits* for music recommendation (co-supervised with N. Cesa-Bianchi)
 - [\/https://tamim-el.github.io/ Tamim El Ahmad], working on *sketching algorithms* to scale-up operator-valued kernel machines (co-supervised with F. d'Alché-Buc)
 
@@ -44,4 +44,4 @@ My list of publications is available [publis.html here].
 
 == News
 - Jan. 24: our [\/https://arxiv.org/abs/2310.17385 paper] on multitask online learning with communication constraints got accepted at *AISTATS* (joint work with J. Achddou and N. Cesa-Bianchi) !
-- Jan. 24: our [\/https://arxiv.org/abs/2302.10128 paper] on sketched operator-valued kernel ridge regression got accepted at *AISTATS* (joint work with T. El Ahmad, L. Brogat-Motte and F. d'Alché-Buc) !
+- Jan. 24: our [\/https://arxiv.org/abs/2302.10128 paper] on sketching methods for structured prediction got accepted at *AISTATS* (joint work with T. El Ahmad, L. Brogat-Motte and F. d'Alché-Buc) !
