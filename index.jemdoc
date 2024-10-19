@@ -5,26 +5,28 @@
 ~~~
 {}{img_left}{subfiles/me.jpg}{alt text}{130px}
 
-Postdoctoral Researcher\n
-/University of Milan/\n\n
+Quantitative Researcher\n
+/Capital Fund Management/\n\n
 *Contact*\n
-Email: pierre \[dot\] laforgue \[at\] unimi.it\n
+Email: pierre \[dot\] laforgue1 \[at\] gmail \[dot\] com\n
 Others: [\/https://scholar.google.fr/citations?hl=fr&user=OY1p2foAAAAJ Google Scholar], [\/https://github.com/plaforgue GitHub], [\/https://fr.linkedin.com/in/pierre-laforgue LinkedIn]
 
 ~~~
 
 
 == About me
-I am currently a postdoctoral researcher at the University of Milan, Italy. I work among the [\/https://sites.google.com/view/lailaunimi/ LAILA team] led by professor [\/http://cesa-bianchi.di.unimi.it/ Nicolò Cesa-Bianchi].\n
+I am currently a quantitative researcher at [\/https://www.cfm.com/ Capital Fund Management].
+
+Prior to this, I was a postdoctoral researcher at the University of Milan, Italy. I worked among the [\/https://sites.google.com/view/lailaunimi/ LAILA team] led by professor [\/http://cesa-bianchi.di.unimi.it/ Nicolò Cesa-Bianchi].\n
 My recent research interests revolve around *multitask online learning* and *bandit algorithms*, with applications to *federated learning*.
 
 
-I am also currently co-supervising two PhD students:
-- [\/https://www.clericigiulia.com/ Giulia Clerici], working on *nonstationary bandits* for music recommendation (co-supervised with N. Cesa-Bianchi)
-- [\/https://tamim-el.github.io/ Tamim El Ahmad], working on *sketching algorithms* to scale-up operator-valued kernel machines (co-supervised with F. d'Alché-Buc)
+I also co-supervised two PhD theses:
+- [\/https://www.clericigiulia.com/ Giulia Clerici], worked on *nonstationary bandits* for music recommendation (co-supervised with N. Cesa-Bianchi)
+- [\/https://tamim-el.github.io/ Tamim El Ahmad], studied *sketching algorithms* to scale-up operator-valued kernel machines (co-supervised with F. d'Alché-Buc)
 
 
-Prior to this, I obtained my PhD from Télécom Paris, under the supervision of professors [\/https://perso.telecom-paristech.fr/fdalche/ Florence d'Alché-Buc] and [\/https://perso.telecom-paristech.fr/clemenco/ Stephan Clémençon].\n
+I obtained my PhD from Télécom Paris, under the supervision of professors [\/https://perso.telecom-paristech.fr/fdalche/ Florence d'Alché-Buc] and [\/https://perso.telecom-paristech.fr/clemenco/ Stephan Clémençon].\n
 You can find more about my background on my [\/https://fr.linkedin.com/in/pierre-laforgue LinkedIn] or in my [\/subfiles/resume.pdf resume].
 
 
@@ -43,5 +45,5 @@ My list of publications is available [publis.html here].
 
 
 == News
-- Jan. 24: our [\/https://arxiv.org/abs/2310.17385 paper] on multitask online learning with communication constraints got accepted at *AISTATS* (joint work with J. Achddou and N. Cesa-Bianchi) !
-- Jan. 24: our [\/https://arxiv.org/abs/2302.10128 paper] on sketching methods for structured prediction got accepted at *AISTATS* (joint work with T. El Ahmad, L. Brogat-Motte and F. d'Alché-Buc) !
+- Jun. 24: our [\/https://arxiv.org/abs/2302.08345 paper] on linear bandits with memory got accepted at *TMLR* (joint work with G. Clerici and N. Cesa-Bianchi) !
+- May 24: our [\/https://arxiv.org/abs/2406.09253 paper] on deep sketched output kernel regression got accepted at *ECML* (joint work with T. El Ahmad, J. Yang and F. d'Alché-Buc) !

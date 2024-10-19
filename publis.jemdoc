@@ -6,7 +6,7 @@ Please find below my list of publications, organized by topic. See also my [\/ht
 
 == Online Learning and Bandits
 
-- *Linear Bandits with Memory: from Rotting to Rising* (Preprint)\n
+- *Linear Bandits with Memory* (TMLR, 2024)\n
   Giulia Clerici, Pierre Laforgue, Nicolò Cesa-Bianchi~~\[[\/https://arxiv.org/abs/2302.08345 paper], [\/https://github.com/GiuliaClerici/Linear-Bandits-with-Memory code]\]
 
 - *Multitask Online Learning: Listen to the Neighborhood Buzz* (AISTATS 2024)\n
@@ -24,10 +24,13 @@ Please find below my list of publications, organized by topic. See also my [\/ht
 
 == Kernel Methods and Sketching
 
+- *Deep Sketched Output Kernel Regression for Structured Prediction* (ECML 2024)\n
+  Tamim El Ahmad, Junjie Yang, Pierre Laforgue, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/2406.09253 paper], [\/https://github.com/tamim-el/dsokr code]\]
+
 - *Sketch In, Sketch Out: Accelerating both Learning and Inference for Structured Prediction with Kernels* (AISTATS 2024)\n
   Tamim El Ahmad, Luc Brogat-Motte, Pierre Laforgue, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/2302.10128 paper]\]
 
-- *Fast Kernel Methods for Generic Lipschitz Losses via $p$-Sparsified Sketches* (TMLR, 2023)\n
+- *Fast Kernel Methods for Generic Lipschitz Losses via /p/-Sparsified Sketches* (TMLR, 2023)\n
   Tamim El Ahmad, Pierre Laforgue, Florence d'Alché-Buc~~\[[\/https://arxiv.org/abs/2206.03827 paper]\]
 
 - *Duality in RKHSs with Infinite Dimensional Outputs: Application to Robust Losses* (ICML 2020)\n
